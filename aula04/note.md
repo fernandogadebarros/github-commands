@@ -17,9 +17,12 @@
 ###### Pull Request
   * PR serve para outros devs avaliarem seu código, comentar e dar sugestões antes de subir sua branch para a master
   * Aba Files changed ficam os arquivos que foram modificados em uma branch 
+  * Pode adicionar revisores
+  * Incluir labels
 
   ### Octotree 
     * É uma extensão do github para utilizar no chrome, é possível saber quais arquivos foram alterados e consegue navegar entre os arquivos.
+    * Na aba code aperta a letra T é possível pesquisar por arquivo.
 
 ##### Templates
   * Para criar um template no github, seja para um pr ou issue basta adicionar uma pasta .github na raiz do repositório e dentro dessa pasta
