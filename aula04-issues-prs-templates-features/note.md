@@ -27,5 +27,3 @@
 ##### Templates
   * Para criar um template no github, seja para um pr ou issue basta adicionar uma pasta .github na raiz do repositório e dentro dessa pasta
     criar um arquivo ISSUE_TEMPLATE.md 
-
-  
